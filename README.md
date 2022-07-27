@@ -1,2 +1,2 @@
-# DIO
-repository for DIO projects
+# DIO repository for course projects
+repository for DIO projects 
